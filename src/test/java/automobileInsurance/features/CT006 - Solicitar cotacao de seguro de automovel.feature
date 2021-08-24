@@ -1,5 +1,5 @@
 #language: en
-#author: Rafael Leite
+#author: Jhonatan Pereira
 #Encoding: UTF-8
 Feature: Seguro de Automovel
 
