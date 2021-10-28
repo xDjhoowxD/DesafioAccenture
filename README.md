@@ -1,6 +1,5 @@
-# DesafioAccenture
+# Test Tricents Sample App with Selenium Java Cocumber
 
-Teste Selenium
 
 Website: http://sampleapp.tricentis.com/101/app.php
 
